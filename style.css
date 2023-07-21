@@ -34,7 +34,7 @@
 /* 2nd project */
 .row{
     display: flex;
-    background-image: url(/images/Group\ 14.png);
+    background-image: url(./images/Group\ 14.png);
     background-repeat: no-repeat;
     background-size: 600px 520px;
     width: 800px;
